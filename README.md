@@ -1,0 +1,2 @@
+# CodigoQR
+practica de frontendMentor
